@@ -1,0 +1,14 @@
+
+.game{
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    height: 600px;
+    display:flex;
+    flex-direction: column;
+    background-color: aqua;
+}
+button{
+    margin: auto;
+}
